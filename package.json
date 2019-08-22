@@ -1,0 +1,27 @@
+{
+  "name": "mint-theme",
+  "displayName": "Mint Theme",
+  "description": "A minimal theme for VS Code.",
+  "author": "Marc Brüderlin <hello@marcbruederlin.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "keywords": [
+    "theme",
+    "dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mint (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mint-dark.json"
+      }
+    ]
+  }
+}
