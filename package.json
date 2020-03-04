@@ -2,7 +2,12 @@
   "name": "mint-theme",
   "displayName": "Mint Theme",
   "description": "A minimal theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#1a1919",
+    "theme": "dark"
+  },
   "publisher": "marcbruederlin",
   "author": {
     "name": "marcbruederlin"
