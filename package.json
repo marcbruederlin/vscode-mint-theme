@@ -2,7 +2,7 @@
   "name": "mint-theme",
   "displayName": "Mint Theme",
   "description": "A minimal VS Code theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "icon": "logo.png",
   "galleryBanner": {
