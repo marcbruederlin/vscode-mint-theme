@@ -1,17 +1,17 @@
 {
-  "name": "mint-theme",
+  "name": "vscode-mint-theme",
   "displayName": "Mint Theme",
-  "description": "A minimal VS Code theme",
-  "version": "0.0.3",
+  "description": "A dark and minimal Visual Studio Code theme.",
+  "version": "0.1.0",
   "license": "MIT",
-  "icon": "logo.png",
+  "icon": "extension-marketplace-icon.png",
   "galleryBanner": {
-    "color": "#1a1919",
+    "color": "#111213",
     "theme": "dark"
   },
   "publisher": "marcbruederlin",
   "author": {
-    "name": "marcbruederlin"
+    "name": "Marc Brüderlin"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "url": "https://github.com/marcbruederlin/vscode-mint-theme/issues"
   },
   "engines": {
-    "vscode": "^1.42.0"
+    "vscode": "^1.12.0"
   },
   "categories": [
     "Themes"
@@ -30,14 +30,21 @@
     "theme",
     "dark",
     "mint",
-    "black"
+    "black",
+    "clean",
+    "minimal"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Mint (Dark)",
+        "label": "Mint Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/mint-dark-color-theme.json"
+        "path": "./themes/mint-dark.json"
+      },
+      {
+        "label": "Mint Super Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mint-super-dark.json"
       }
     ]
   }
