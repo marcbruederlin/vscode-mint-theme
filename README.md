@@ -20,8 +20,6 @@ To activate the theme click on the gear icon in the _Activity Bar_ and select _C
 
 <p align="center"><img src="./.github/theme-select.png"/></p>
 
-See Nord Visual Studio Code's documentation for details about [more activation options][nord-docs-home-install#activation].
-
 <p align="center">
   Copyright © 2020-present <a href="https://github.com/marcbruederlin">Marc Brüderlin</a>
   <br /><br />
