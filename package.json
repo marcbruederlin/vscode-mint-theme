@@ -1,27 +1,13 @@
 {
   "name": "mint-theme",
   "displayName": "Mint Theme",
-  "description": "A dark and minimal Visual Studio Code theme.",
-  "version": "0.1.1",
+  "description": "A soothing dark theme for VS Code adorned with refreshing mint colors.",
   "license": "MIT",
-  "icon": "extension-marketplace-icon.png",
-  "galleryBanner": {
-    "color": "#111213",
-    "theme": "dark"
-  },
+  "version": "0.1.2",
+  "icon": "marketplace-icon.png",
   "publisher": "marcbruederlin",
   "author": {
     "name": "Marc Brüderlin"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/marcbruederlin/vscode-mint-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/marcbruederlin/vscode-mint-theme/issues"
-  },
-  "engines": {
-    "vscode": "^1.12.0"
   },
   "categories": [
     "Themes"
@@ -34,6 +20,16 @@
     "clean",
     "minimal"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcbruederlin/vscode-mint-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/marcbruederlin/vscode-mint-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.12.0"
+  },
   "contributes": {
     "themes": [
       {
